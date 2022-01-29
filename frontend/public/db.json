@@ -1,0 +1,98 @@
+{
+  "tweets": [
+    {
+      "_id": "61a3e562efe32586c81f43434ed8",
+     " text": "Tempor ex adipisicing culpa eu esse. Officia commodo et ullamco aliquip labore adipisicing fugiat enim. Est culpa fugiat Lorem excepteur mollit fugiat id exercitation occaecat commodo velit. Sint veniam enim dolor ut pariatur duis ipsum. Enim minim cupidatat exercitation minim proident mollit ex id et est officia excepteur.",
+      "user": {
+        "fullname": "Ines Callahan",
+        "username": "britney",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?2"
+      }
+    },
+    {
+     " _id": "61a3e5624249272d75ec589d76b",
+      "text": "Ea aliqua amet ea irure dolore veniam et pariatur laboris irure aliqua pariatur. Cupidatat esse Lorem id nulla sit. Dolore nostrud proident fugiat qui. Ea exercitation nulla excepteur cupidatat et nostrud amet magna adipisicing deserunt. Quis pariatur fugiat adipisicing laboris dolore.",
+      "user": {
+        "fullname": "Earline Lindsey",
+        "username": "henderson",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?4"
+      }
+    },
+    {
+      "_id": "61a3e24245620268fb993d11674b",
+      "text": "Veniam nulla anim sit nulla in ad laborum qui qui. Minim magna ad sunt sunt qui ullamco ullamco. Quis adipisicing ad reprehenderit irure quis est amet. Duis nostrud duis laborum tempor do. Consequat exercitation incididunt consectetur est deserunt id non enim deserunt quis ad sit ad do.",
+      "user": {
+        "fullname": "Cathryn Baxter",
+        "username": "chris",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?1"
+      }
+    },
+    {
+      "_id": "61a3e42425620e57e0e6bdc24971",
+      "text": "Ea ullamco dolore duis ex esse do velit. Minim sunt ut reprehenderit ullamco ut proident excepteur. Labore ipsum aliquip voluptate nostrud. Laborum officia excepteur est ex consequat culpa sit. Irure excepteur esse reprehenderit anim.",
+      "user": {
+        "fullname": "French Mack",
+        "username": "janell",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+      }
+    },
+    {
+      "_id": "61a3e54556252e39020a2fe36a7",
+      "text": "Officia reprehenderit occaecat aliqua culpa. Elit eiusmod non incididunt laborum ad non proident laborum nulla aliqua esse laboris enim sint. Nulla dolore enim laboris labore proident voluptate culpa. Commodo qui non ad proident amet consequat proident aliquip exercitation reprehenderit minim. Cillum commodo esse exercitation eiusmod mollit deserunt minim consequat mollit eiusmod voluptate ex Lorem.",
+      "user": {
+        "fullname": "Mueller Barnett",
+        "username": "burns",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?2"
+      }
+    },
+    {
+      "_id": "61a3e562a5557f07b82f6b4a6a0",
+      "text": "Sit aliquip anim magna laborum tempor eu anim culpa consectetur ea incididunt nulla. Irure consequat id mollit nisi deserunt nisi do magna. Anim id excepteur enim qui proident aute minim mollit esse tempor id labore dolore. Nisi mollit tempor duis deserunt enim. Ea et est esse veniam ad magna excepteur id magna tempor nostrud.",
+      "user": {
+        "fullname": "Whitfield Underwood",
+        "username": "cherry",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "_id": "61a3e562efe3672586c81f4ed8",
+      "name": "#HandOffUkrainianHistory",
+      "count": 12175
+    }, {
+      "_id": "61a3e562e44fe325846c81f4ed8",
+      "name": "Navalniy",
+      "count": 442
+    }, {
+      "_id": "641a333e562efe32586c81f4ed8",
+      "name": "Zelenskiy",
+      "count": 51321
+    }, {
+      "_id": "66881a3e562efe32586c881f4ed8",
+      "name": "Беларусь",
+      "count": 812812
+    }
+  ],
+  "users": [
+    {
+      "fullname": "Ines Callahan",
+      "username": "britney",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?2"
+    }, {
+      "fullname": "Earline Lindsey",
+      "username": "henderson",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?4"
+    }, {
+      "fullname": "Cathryn Baxter",
+      "username": "chris",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?1"
+    }
+  ],
+  "user": {
+    "_id": "61a3e5620268fb993d11674b",
+    "fullname": "Art Chot",
+    "username": "Art89",
+    "avatarUrl": "https://source.unsplash.com/random/100x100?2"
+  }
+}
